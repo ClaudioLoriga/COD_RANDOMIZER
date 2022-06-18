@@ -1,0 +1,69 @@
+Categorie di armi:
+- assault
+- smg
+- shotgun
+- sniper
+- lmg
+- tactical
+- marksman
+- melee_with_overkill
+- melee_without_overkill
+- handgun
+- launchers
+
+------------------------
+
+Numero armi per categoria:
+- assault : 34
+- smg: 32
+- shotgun: 14
+- sniper: 13
+- lmg: 17
+- tactical: 5
+- marksman: 11
+- melee_with_overkill: 2
+- melee_without_overkill: 21
+- handgun: 17
+- launchers: 11
+
+------------------------
+
+categorie di armi che possono avere equipaggiamenti:
+- assault
+- smg
+- shotgun
+- sniper
+- lmg
+- tactical
+- marksman
+- handgun
+
+differenza numero accessori equipaggiabili:
+- armi vanguard = tutti
+- altre armi = 5
+
+------------------------
+
+possibile scelta su cosa randomizzare:
+- armi
+- perk
+- tattici e letali
+
+------------------------
+
+Scelta se mantenere overkill -> bottone in vista, è una cosa primaria
+
+------------------------
+
+L'utente può:
+- creare un loadout completamente randomizzato
+- creare un loadout completamente randomizzato, ma con overkill
+- randomizzare una singola arma
+- randomizzare una singola arma di una determinata categoria
+- randomizzare soltanto i perk (controllo se l'utente vuole overkill o meno)
+- randomizzare soltanto l'equipaggiamento tattico
+- randomizzare soltanto l'equipaggiamento letale
+- mettere dei filtri sulle armi che non possiede
+
+------------------------
+
