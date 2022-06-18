@@ -28,7 +28,7 @@ Numero armi per categoria:
 
 ------------------------
 
-categorie di armi che possono avere equipaggiamenti:
+categorie di armi che possono avere accessori:
 - assault
 - smg
 - shotgun
@@ -44,17 +44,6 @@ differenza numero accessori equipaggiabili:
 
 ------------------------
 
-possibile scelta su cosa randomizzare:
-- armi
-- perk
-- tattici e letali
-
-------------------------
-
-Scelta se mantenere overkill -> bottone in vista, è una cosa primaria
-
-------------------------
-
 L'utente può:
 - creare un loadout completamente randomizzato
 - creare un loadout completamente randomizzato, ma con overkill
@@ -67,3 +56,6 @@ L'utente può:
 
 ------------------------
 
+Beta dell'app: randomizzare solo le armi
+
+------------------------
