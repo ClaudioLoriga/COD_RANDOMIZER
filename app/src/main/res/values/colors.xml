@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green_app">#528A63</color>
+    <color name="green_military_app">#404622</color>
+    <color name="grey_app">#808782</color>
+    <color name="grey_darker_app">#656565</color>
 </resources>
